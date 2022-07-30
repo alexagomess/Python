@@ -1,3 +1,5 @@
-# projects
+# Python
 
-In this repository I put every codes, projects, tests I had done
+In this repository I will put all the analyzes done in python.
+
+
